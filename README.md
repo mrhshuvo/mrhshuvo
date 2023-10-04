@@ -6,7 +6,7 @@ Skills: HTML / CSS /Bootstrap/ MongDB / Express Js/ Node Js/React Js
 
 - 🔭 I’m currently working on SoroBindu 
 - 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
+-
 
 
 
